@@ -1,0 +1,2 @@
+print (hi)
+#output:hi
