@@ -1,2 +1,0 @@
-print (hi)
-#output:hi
