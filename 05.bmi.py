@@ -5,5 +5,3 @@ height=1.77
 bmheight=height**2
 bmi=(mass/bmheight)
 print(bmi)
-
-#output:23.93
