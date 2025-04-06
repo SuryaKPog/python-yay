@@ -2,7 +2,7 @@
 #For multiples of 3, print "Fizz" instead of the number
 #For multiples of 5, print "Buzz" instead of the number
 #For multiples of 3 and 5, print "FizzBuzz"
-#im gonna
+#im gonna use a for loop here
 
 for i in range(1,101):
   if i%3==0 and i%5==0:
